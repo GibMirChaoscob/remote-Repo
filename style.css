@@ -9,19 +9,35 @@ td{
     width: 100px;
 }
 h1{
+    font-family: sans-serif;
     text-align: center;
     color: #E0E1DD;
     border-radius: 10px;
     background: #344E41; 
 }
-.F{
+.headpic{
     width: 100%;
     height: 250px;
 }
 h2{
+    font-family: sans-serif;
     padding-left: 10px;
-    font-weight: 200;
     color: #E0E1DD;
     background: #3A5A40;
     border-radius: 5px;
+    margin-top: 50px  ;
+}
+.weekpic1{
+   float: right;
+   margin-left: 10px;
+}
+.weekpic2{
+    float: left;
+    margin-right: 10px;
+}
+.weekheader{
+    margin-top: 50px;
+}
+.divider{
+    height: 20px;
 }
